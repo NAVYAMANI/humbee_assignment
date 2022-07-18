@@ -1,0 +1,10 @@
+* {
+    background-color: cornsilk;
+}
+.col-md-1{
+	background: orange;
+	padding: 10px
+}
+.popover-header{
+	background: #5597d2 !important;
+}
